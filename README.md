@@ -8,6 +8,13 @@ The FiveThirtyEight data is a bit old, and our client would like us to use the [
 
 While their visualizations focused on yearly averages, our client wants to create commercials that help reduce gun deaths in the US.  They would like to target the commercials in different seasons of the year (think month variable) to audiences that could significantly reduce gun deaths. Our challenge is to summarize and visualize seasonal trends across the other variables in these data.
 
+## Reading
+
+- [R4DS: Chapter 5 Data transformation](https://r4ds.had.co.nz/transform.html)
+- [R4DS: Chapter 7 Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
+- [Py4DS: Chapter 5 Data transformation](https://byuidatascience.github.io/python4ds/transform.html)
+- [Py4DS: Chapter 7 Exploratory Data Analysis](https://byuidatascience.github.io/python4ds/exploratory-data-analysis.html)
+
 ## Tasks
 
 ### Python translation
