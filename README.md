@@ -4,7 +4,8 @@
 
 The world is a dangerous place.  During 2015 and 2016, there was a lot of discussion in the [news about police shootings](http://www.cbsnews.com/pictures/controversial-police-shootings/).  [FiveThirtyEight](https://fivethirtyeight.com/) reported on [gun deaths in 2016](https://fivethirtyeight.com/features/gun-deaths/).  As leaders in data journalism, they have posted a clean version of this data in their Github repo called [full_data.csv](https://github.com/fivethirtyeight/guns-data) for us to use. 
 
-The FiveThirtyEight data is a bit old, and our client would like us to use the [most recent data from the CDC](https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Mortality_Multiple).  He would also like the parser script to use Python instead of R.
+The FiveThirtyEight data is a bit old, and our client would like us to use the [most recent data from the CDC](https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Mortality_Multiple).  He would also like the [parser script to use Python instead of R](https://github.com/fivethirtyeight/guns-data/blob/master/CDC_parser.R
+).
 
 While their visualizations focused on yearly averages, our client wants to create commercials that help reduce gun deaths in the US.  They would like to target the commercials in different seasons of the year (think month variable) to audiences that could significantly reduce gun deaths. Our challenge is to summarize and visualize seasonal trends across the other variables in these data.
 
@@ -33,5 +34,4 @@ While their visualizations focused on yearly averages, our client wants to creat
     - [ ] Write a short paragraph describing each image.
 
 
-https://github.com/fivethirtyeight/guns-data/blob/master/CDC_parser.R
 
