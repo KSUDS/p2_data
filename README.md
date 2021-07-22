@@ -1,4 +1,4 @@
-# Case Study 4: Reducing Gun Deaths (FiveThirtyEight) 
+# Project 2: Reducing Gun Deaths (FiveThirtyEight) 
 
 ## Background 
 
