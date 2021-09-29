@@ -22,7 +22,6 @@ While their visualizations focused on yearly averages, our client wants to creat
 
 - [ ] Translate [FiveThirtyEight's CDC_parser.R script](https://github.com/fivethirtyeight/guns-data/blob/master/CDC_parser.R) into a Python script.
 - [ ] Verify that your output matches their results.
-- [ ] Build new data sets that use data through 2019.
 
 ### Client needs (charts and munging done in Python and R)
 
